@@ -76,7 +76,6 @@ screen.fill(bg_color)
 exit = False
 clock = pygame.time.Clock()
 
-# Add speed for arrow key movement
 sp1_speed = 5
 
 while not exit:
